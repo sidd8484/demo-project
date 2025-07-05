@@ -1,4 +1,4 @@
 # demo-project
 first git repo
 <br>
-Author - Sid
+Author - Sid Yejge
